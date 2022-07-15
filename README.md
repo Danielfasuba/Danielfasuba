@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Danielfasuba
-- 👀 I’m interested in software development
+- 👋 Hi, I’m Dan
+- 👀 I’m interested in Computer Vision
 - 🌱 I’m currently learning C/C++
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach danielfasuba@gmail.com
 
 <!---
