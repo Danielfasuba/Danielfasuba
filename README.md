@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dan
 - 👀 I’m interested in Computer Vision
-- 🌱 I’m currently learning C/C++
+- 🌱 I’m currently learning C++
 - 📫 How to reach danielfasuba@gmail.com
 
 <!---
